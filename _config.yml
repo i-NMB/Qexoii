@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: aurora
+theme: landscape
 
 search:
   path: search.xml
@@ -107,6 +107,3 @@ search:
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy: 
-  - type: git
-    repo: https://github.com/i-NMB/acbug.github.io.git
-    branch: main
